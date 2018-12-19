@@ -149,6 +149,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Marta Modas 2018</p>
+		<a href='https://www.umbler.com/br/seja-bem-vindo?u=zkq5qm8k'>
+		<img src='https://static.umbler.com/brand/umbler-badges/umbler-badge-hostedby-light-bg.png' width='100%' alt='Hosted by Umbler'>
+		</a>
       </div>
       <!-- /.container -->
     </footer>
