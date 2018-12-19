@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
-	<title>Redua Informatica</title>
+	<title>Marta Modas</title>
 	
 	<!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -148,7 +148,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
-        <p class="m-0 text-center text-white">Copyright &copy; Redua Informática 2018</p>
+        <p class="m-0 text-center text-white">Copyright &copy; Marta Modas 2018</p>
       </div>
       <!-- /.container -->
     </footer>

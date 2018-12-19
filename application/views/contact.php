@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="pt-br">
 <head>
 	<meta charset="utf-8">
-	<title>Redua Informatica</title>
+	<title>Marta Modas</title>
 	
 	<!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
@@ -61,8 +61,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
 
-	<footer class="container">
-      <p>&copy; Company 2017-2018</p>
+	<footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Marta Modas 2018</p>
+      </div>
+      <!-- /.container -->
     </footer>
 
 	<script src="<?php echo base_url();?>assets/vendor/jquery/jquery.min.js"></script>
